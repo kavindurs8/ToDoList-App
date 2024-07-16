@@ -21,13 +21,13 @@ The To-Do List Application is a simple Android application that allows users to 
 
 ## Screenshots
 ### Dashboard
-![Login](Screenshots/ss1.jpg)
+![Login](ss1.jpg)
 
 ### Add Task
-![Dashboard](Screenshots/ss2.jpg)
+![Dashboard](ss2.jpg)
 
 ### Task List
-![Add Task](Screenshots/ss3.jpg)
+![Add Task](ss3.jpg)
 
 ## Prerequisites
 - Android Studio
@@ -38,4 +38,4 @@ The To-Do List Application is a simple Android application that allows users to 
 ### Clone the Repository
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/kavindurs8/To-Do-List-App
+git clone https://github.com/kavindurs8/ToDoList-App
